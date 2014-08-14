@@ -1,0 +1,40 @@
+    {
+    "date": 1359781015626,
+    "imageUrl": "img/angularjs-logo.png",
+    "location": {
+        "address": "Google Headquarters",
+        "city": "Mountain View",
+        "province": "CA"
+    },
+    "name": "Angular Boot Camp",
+    "sessions": [
+        {
+            "id": 1,
+            "abstract": "Description of session [Directives Masterclass]",
+            "creatorName": "Bob Smith",
+            "duration": 1,
+            "level": "Advanced",
+            "name": "Directives Masterclass",
+            "upVoteCount": 0
+        },
+        {
+            "id": 2,
+            "abstract": "Description of session [Scope for fun and profit]",
+            "creatorName": "John Dow'",
+            "duration": 2,
+            "level": "Intermediate",
+            "name": "Scope for fun and profit",
+            "upVoteCount": 0
+        },
+        {
+            "id": 3,
+            "abstract": "Description of session [Well Behaved Controllers]",
+            "creatorName": "John Doe",
+            "duration": 4,
+            "level": "Introductory",
+            "name": "Well Behaved Controllers",
+            "upVoteCount": 0
+        }
+    ],
+    "time": "10:30 am"
+}
